@@ -1,5 +1,5 @@
 # My life is open source* 
-This line kinda came to my head 😂 so I updated this line at 11 baishak 4:59 pm.
+This line kinda came to my head just now (11 baishak 4:59 pm) so I updated this line.
 I believe I might be the only guy doing this at github lol
 
 # DailyStuff
