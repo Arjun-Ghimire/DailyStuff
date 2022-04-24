@@ -11,5 +11,5 @@ I like sharing what I do, since I am not on social media so you don't forcefully
 If anyone wants an update on what I am doing then just see this repo where I have track of my everyday activities
 
 # Why its not private ?
-I wanted to make this repo private and only for me but if I die tommrow no-one will no what I did in my entire life,
+I wanted to make this repo private and only for me but if I die tommrow no-one will know what I did in my entire life,
 Thats why I thought lets make this public and if anyone wants an update on me they can simply view this repo
